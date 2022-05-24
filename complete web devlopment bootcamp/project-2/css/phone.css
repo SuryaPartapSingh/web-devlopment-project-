@@ -1,0 +1,22 @@
+
+/*navigation*/
+#navbar{
+    flex-direction: column;
+}
+#home{
+height: 370px;
+}
+
+#home::before{
+height: 480px;
+}
+#home p{
+    font-size: 30px;
+}
+/* service*/
+#services{
+flex-direction: column;
+}
+.h-primary{
+    font-size: 26px;
+}
